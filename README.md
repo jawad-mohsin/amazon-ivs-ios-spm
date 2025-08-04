@@ -18,7 +18,7 @@ This package provides Swift Package Manager support for Amazon IVS iOS SDKs.
 ### Swift Package Manager
 
 1. In Xcode, go to **File** → **Add Package Dependencies...**
-2. Enter this repository URL: `https://github.com/YOUR_USERNAME/amazon-ivs-ios-spm`
+2. Enter this repository URL: `https://github.com/jawad-mohsin/amazon-ivs-ios-spm`
 3. Choose version (e.g., "Up to Next Major Version" from 1.0.0)
 4. Select the products you need:
    - `AmazonIVSPlayer` - For playback functionality
@@ -57,7 +57,7 @@ This package provides Swift Package Manager support for Amazon IVS iOS SDKs.
 ### Swift Package Manager
 
 1. In Xcode, go to **File** → **Add Package Dependencies...**
-2. Enter this repository URL: `https://github.com/YOUR_USERNAME/amazon-ivs-ios-spm`
+2. Enter this repository URL: `https://github.com/jawad-mohsin/amazon-ivs-ios-spm`
 3. Choose version (e.g., "Up to Next Major Version" from 1.0.0)
 4. Select the products you need:
    - `AmazonIVSPlayer` - For playback functionality
@@ -69,7 +69,7 @@ If you prefer to use specific versions in your `Package.swift`:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/YOUR_USERNAME/amazon-ivs-ios-spm", from: "1.0.0")
+    .package(url: "https://github.com/jawad-mohsin/amazon-ivs-ios-spm", from: "1.0.0")
 ],
 targets: [
     .target(
